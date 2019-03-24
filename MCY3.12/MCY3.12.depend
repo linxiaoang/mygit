@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553417161 source:c:\users\dell\documents\mygit\mcy3.12\main.cpp
+	<iostream>
+	"Account.h"
+
+1553357370 source:c:\users\dell\documents\mygit\mcy3.12\src\account.cpp
+
+1553417160 c:\users\dell\documents\mygit\mcy3.12\include\account.h
+
