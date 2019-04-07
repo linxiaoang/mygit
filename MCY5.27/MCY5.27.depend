@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554631968 source:c:\users\dell\documents\mygit\mcy5.27\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
