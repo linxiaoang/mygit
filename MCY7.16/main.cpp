@@ -7,7 +7,8 @@ using namespace std;
 
 int main()
 {
-
+    int i=0;
+    int j=0;
     int sum=0;
     array<int,6>rollone={1,2,3,4,5,6};
     array<int,6>rolltwo={1,2,3,4,5,6};
@@ -19,6 +20,8 @@ cout<<"Face"<<setw(13)<<"Frequency"<<endl;
   for(size_t i=0;i<rollone.();++i)
   {
      for(size_t j=0;j<rolltwo.();++j)
+      rollone=1+rand()%6;
+      rolltwo=1+rand()%6;
 
          sum=rollone[i]+rolltwo[j];
          ++frequency[sum];
