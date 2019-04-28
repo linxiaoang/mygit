@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556196780 source:c:\users\dell\documents\mygit\mcy7.8\main.cpp
+	<iostream>
+	<array>
+	<iomanip>
+
